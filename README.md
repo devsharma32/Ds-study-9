@@ -99,7 +99,9 @@
     <li><strong>8. Force and Laws of Motion</strong><br><a href="pdfs/Force_and_Laws_of_Motion.pdf" target="_blank">📄 Download PDF</a></li>
     <li><strong>9. Gravitation</strong><br><a href="pdfs/Gravitation.pdf" target="_blank">📄 Download PDF</a></li>
     <li><strong>10. Work and Energy</strong><br><a href="pdfs/Work_and_Energy.pdf" target="_blank">📄 Download PDF</a></li>
-    <li><strong>11. Sound</strong><br><a href="pdfs/Sound.pdf" target="_blank">📄 Download PDF</a></li>
+    <li><strong>11. Sound</strong><br><a href="pdfs/Sound.pdf" target="_blank">📄 Download 
+      <a href="https://drive.google.com/drive/folders/1oJt1VXMvzBLSVMP3yTRL5G-innQpodzE>exphub<\a>
+        
     <li><strong>12. Improvement in Food Resources</strong><br><a href="pdfs/Improvement_in_Food_Resources.pdf" target="_blank">📄 Download PDF</a></li>
   </ul>
   <p><a href="index.html">🏠 Back to Home</a></p>
