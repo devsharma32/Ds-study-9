@@ -1,4 +1,60 @@
-# D.s-<!DOCTYPE html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>D.S Study 9 - Home</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #eef6ff;
+      padding: 20px;
+      margin: 0;
+    }
+    h1 {
+      color: #1e3a8a;
+      font-size: 28px;
+    }
+    p {
+      font-size: 18px;
+      color: #333;
+    }
+    .quote {
+      font-style: italic;
+      margin-top: 20px;
+      font-size: 20px;
+      color: #444;
+    }
+    .banner {
+      width: 100%;
+      max-width: 1000px;
+      margin-bottom: 20px;
+      border-radius: 8px;
+    }
+    a.button {
+      display: inline-block;
+      margin-top: 20px;
+      padding: 10px 15px;
+      background: #1e3a8a;
+      color: white;
+      text-decoration: none;
+      border-radius: 5px;
+      margin-right: 10px;
+    }
+  </style>
+</head>
+<body>
+  <img src="banner.png" alt="Educational Banner" class="banner" />
+  <h1>Welcome to D.S Study 9</h1>
+  <p>Created by <strong>Dev Sharma</strong></p>
+  <p>This website contains downloadable Class 9 Science Notes for quick revision.</p>
+  <div class="quote">
+    “Success is the sum of small efforts, repeated day in and day out.”
+  </div>
+  <a class="button" href="chapters.html">📘 View Chapters</a>
+</body>
+</html>
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
@@ -39,4 +95,4 @@
   </ul>
   <p><a href="index.html">🏠 Back to Home</a></p>
 </body>
-</html>-9
+</html>
