@@ -57,53 +57,41 @@
   <a class="button" href="chapters.html">📘 View All Science Chapters</a>
 </body>
 </html>
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>D.S Study 9 - Chapters</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      padding: 20px;
-      background: #ffffff;
-      margin: 0;
-    }
-    h1 {
-      color: #0f172a;
-      font-size: 26px;
-    }
-    ul {
-      padding-left: 15px;
-    }
-    a {
-      color: #2563eb;
-      text-decoration: none;
-    }
-    li {
-      margin-bottom: 12px;
-    }
-  </style>
-</head>
-<body>
-  <h1>📚 Class 9 Science Chapters</h1>
-  <ul>
-    <li><strong>1. Matter in Our Surroundings</strong><br><a href="pdfs/Matter_in_Our_Surroundings.pdf" target="_blank">📄 Download PDF</a></li>
-    <li><strong>2. Is Matter Around Us Pure?</strong><br><a href="pdfs/Is_Matter_Around_Us_Pure.pdf" target="_blank">📄 Download PDF</a></li>
-    <li><strong>3. Atoms and Molecules</strong><br><a href="pdfs/Atoms_and_Molecules.pdf" target="_blank">📄 Download PDF</a></li>
-    <li><strong>4. Structure of the Atom</strong><br><a href="pdfs/Structure_of_the_Atom.pdf" target="_blank">📄 Download PDF</a></li>
-    <li><strong>5. The Fundamental Unit of Life</strong><br><a href="pdfs/The_Fundamental_Unit_of_Life.pdf" target="_blank">📄 Download PDF</a></li>
-    <li><strong>6. Tissues</strong><br><a href="pdfs/Tissues.pdf" target="_blank">📄 Download PDF</a></li>
-    <li><strong>7. Motion</strong><br><a href="pdfs/Motion.pdf" target="_blank">📄 Download PDF</a></li>
-    <li><strong>8. Force and Laws of Motion</strong><br><a href="pdfs/Force_and_Laws_of_Motion.pdf" target="_blank">📄 Download PDF</a></li>
-    <li><strong>9. Gravitation</strong><br><a href="pdfs/Gravitation.pdf" target="_blank">📄 Download PDF</a></li>
-    <li><strong>10. Work and Energy</strong><br><a href="pdfs/Work_and_Energy.pdf" target="_blank">📄 Download PDF</a></li>
-    <li><strong>11. Sound</strong><br><a href="pdfs/Sound.pdf" target="_blank">📄 Download 
-      <a href="https://drive.google.com/drive/folders/1oJt1VXMvzBLSVMP3yTRL5G-innQpodzE>exphub<\a>
-        
-    <li><strong>12. Improvement in Food Resources</strong><br><a href="pdfs/Improvement_in_Food_Resources.pdf" target="_blank">📄 Download PDF</a></li>
-  </ul>
-  <p><a href="index.html">🏠 Back to Home</a></p>
-</body>
-</html>
+
+<div class="section">
+  <h1>Chapter 1: Matter in Our Surroundings</h1>
+  <h2>📘 Practice Questions</h2>
+
+  <h2>📝 10 Multiple Choice Questions (MCQs)</h2>
+  <ol>
+    <li>Which state of matter has a definite shape and volume?<br>
+    A) Liquid &nbsp;&nbsp; B) Gas &nbsp;&nbsp; C) Solid &nbsp;&nbsp; D) Plasma</li>
+
+    <li>What is the boiling point of water in Celsius?<br>
+    A) 50°C &nbsp;&nbsp; B) 90°C &nbsp;&nbsp; C) 100°C &nbsp;&nbsp; D) 212°C</li>
+
+    <li>Which state of matter is compressible?<br>
+    A) Solid &nbsp;&nbsp; B) Liquid &nbsp;&nbsp; C) Gas &nbsp;&nbsp; D) All of these</li>
+
+    <li>Which of the following shows diffusion?<br>
+    A) Sugar in water &nbsp;&nbsp; B) Stone in water &nbsp;&nbsp; C) Sand in air &nbsp;&nbsp; D) Salt in oil</li>
+
+    <li>What is dry ice?<br>
+    A) Frozen water &nbsp;&nbsp; B) Solid CO₂ &nbsp;&nbsp; C) Ice cream &nbsp;&nbsp; D) Frozen hydrogen</li>
+
+    <li>Which factor increases the rate of evaporation?<br>
+    A) High humidity &nbsp;&nbsp; B) Low temperature &nbsp;&nbsp; C) High surface area &nbsp;&nbsp; D) None</li>
+
+    <li>Why does camphor disappear over time?<br>
+    A) Evaporation &nbsp;&nbsp; B) Melting &nbsp;&nbsp; C) Sublimation &nbsp;&nbsp; D) Diffusion</li>
+
+    <li>Which of the following has the least kinetic energy?<br>
+    A) Solid &nbsp;&nbsp; B) Liquid &nbsp;&nbsp; C) Gas &nbsp;&nbsp; D) Plasma</li>
+
+    <li>Which process turns a gas into liquid?<br>
+    A) Melting &nbsp;&nbsp; B) Boiling &nbsp;&nbsp; C) Freezing &nbsp;&nbsp; D) Condensation</li>
+
+    <li>Which one is a characteristic of particles of matter?<br>
+    A) They are at rest &nbsp;&nbsp; B) They have no space between them<br>
+    C) They are stationary &nbsp;&nbsp; D) They are continuously moving</li>
+    
